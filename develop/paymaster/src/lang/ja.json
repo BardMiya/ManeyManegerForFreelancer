@@ -1,0 +1,50 @@
+{
+    "menu":{
+        "Home": "Home",
+        "Works": "業務",
+        "Invoices": "請求書",
+        "Estimates": "見積書",
+        "Ledgers": "取引台帳",
+        "Accounting": "経理",
+        "Products": "商品",
+        "SignOut": "Sign out"
+    },
+    "displayParts":{
+        "transaction": "仕訳帳",
+        "ledgers":"取引台帳",
+        "statement": "損益計算書",
+        "balance": "貸借対象表",
+        "periodClose": "期末繰越処理",
+        "period":"期間",
+        "ledgersType":"台帳種別",
+        "transactioner":"取引主体",
+        "revenue": "収益",
+        "cost": "費用",
+        "diff": "営業利益",
+        "account": "勘定科目",
+        "000": "合計",
+        "ofClass": "の部",
+        "profit": "当期純利益",
+        "loss": "当期純損失",
+        "amount": "金額",
+        "confirm":"確定する",
+        "year": "年度",
+        "ok": "OK",
+        "cancel": "Cancel",
+        "toNextPeriod": "繰越処理",
+        "businessStatus": "損益試算表",
+        "balanceCalc": "残高試算表"
+    },
+    "dataItem":{
+        "closeRemark": "期末締め処理"
+    },
+    "message":{
+        "PM0000": "{0}が完了しました。",
+        "NM0000": "予期せぬエラー：{0}",
+        "NM0001": "許可されていないリクエストです:{0}",
+        "NM0002": "対象が指定されていません:{0}",
+        "NM0003": "リクエストの失敗を受信:{0}({1})",
+        "QM0001": "{0}年度の会計を締めます。締め処理後の修正、変更はできません。\n宜しいですか？",
+        "QM0002": "{0}年度へ繰越ます。この処理は取り消しできません。\n宜しいですか？"
+    }
+}

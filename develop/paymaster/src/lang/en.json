@@ -1,0 +1,11 @@
+{
+    "menu":{
+        "Home": "Home",
+        "Works": "Works",
+        "Invoices": "Invoice",
+        "Estimates": "Estimae",
+        "Ledgers": "Ledger",
+        "Products": "Product",
+        "SignOut": "Sign out"
+    }
+}

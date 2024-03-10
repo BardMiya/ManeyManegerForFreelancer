@@ -1,0 +1,8 @@
+docker/db/
+DB/
+www/html/payment/.env
+www/html/payment/storage/
+develop/paymaster/.vite/
+develop/paymaster/.vscode/
+develop/paymaster/coverage/
+www/html/payment/noPublic/
